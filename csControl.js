@@ -7,5 +7,11 @@ function ikkinchiFunc() {
     return "Ikkinchi nitro qushilish"
 }
 
+function uchinchiFunc() {
+    retirn "xxxxx.xxxxx";
+}
+
+
+
 
 console.log(vcFunc())
