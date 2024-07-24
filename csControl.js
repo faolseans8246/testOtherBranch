@@ -8,10 +8,10 @@ function ikkinchiFunc() {
 }
 
 function uchinchiFunc() {
-    retirn "xxxxx.xxxxx";
+    return "xxxxx.xxxxx";
 }
 
 
 
 
-console.log(vcFunc())
+console.log(uchinchiFunc())
